@@ -2,9 +2,9 @@
 Desenvolvimento
 
 
-# Atividade do primeiro teste:
+## Atividade do primeiro teste:
 
----- Teste 1 - WebScraping -----
+#### ---- Teste 1 - WebScraping -----
    
 Neste teste o candidato deverá criar um código (em uma das linguagens mencionadas no fim desse email) que execute as tarefas de código abaixo.
 Tarefas de código:
@@ -16,9 +16,9 @@ Tarefas de código:
 
 
 
-Atividade do segundos teste: 
+## Atividade do segundos teste: 
 
----- Teste 2 Transformação de dados -----
+#### ---- Teste 2 Transformação de dados -----
 
 Neste teste o candidato deverá criar um código (em uma das linguagens mencionadas no fim desse email) que execute as tarefas de código abaixo.
 Tarefas de código:
